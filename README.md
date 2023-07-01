@@ -2,6 +2,7 @@
 
 Practice Set Questions
 Create a new column called "FullNameLength" that calculates the length of each employee's full name in the "Full Name" column.
+
 Create a new column called "JoinMonth" that extracts the hire month from the "Hire Date" column.
 Create a new column called "FullNameUpper" that converts the values in the "Full Name" column to uppercase.
 Create a new column called "DepartmentCode" that extracts the department code from the "Department" column.(Department code contains first two letters of the department name and Department code must be in uppercase.)
